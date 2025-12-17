@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-21" value="获得相应城市的理论值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="262" y="145" width="120" height="60" as="geometry" />
+          <mxGeometry x="257" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-22" value="武汉单级核心地位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="257" y="35" width="130" height="40" as="geometry" />
