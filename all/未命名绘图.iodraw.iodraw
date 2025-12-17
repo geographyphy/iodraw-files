@@ -41,10 +41,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-11" value="虹吸效应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="220" width="90" height="30" as="geometry" />
+          <mxGeometry x="635.01" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-12" value="辐射效应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="629" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="634.01" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -54,15 +54,15 @@
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-37" value="比较大小" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1eOeeqDIeldskbPUFZCg-15">
           <mxGeometry x="-0.1664" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1eOeeqDIeldskbPUFZCg-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="260" as="sourcePoint" />
-            <mxPoint x="560" y="200" as="targetPoint" />
+            <mxPoint x="515.01" y="260" as="sourcePoint" />
+            <mxPoint x="565.01" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="235" />
+              <mxPoint x="515.01" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -73,10 +73,10 @@
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1eOeeqDIeldskbPUFZCg-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="260" as="sourcePoint" />
-            <mxPoint x="570" y="250" as="targetPoint" />
+            <mxPoint x="515.01" y="260" as="sourcePoint" />
+            <mxPoint x="575.01" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="275" />
+              <mxPoint x="515.01" y="275" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,7 +130,7 @@
         <mxCell id="1eOeeqDIeldskbPUFZCg-35" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="325" as="sourcePoint" />
-            <mxPoint x="450" y="270" as="targetPoint" />
+            <mxPoint x="430" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="430" y="325" />
             </Array>
@@ -139,7 +139,7 @@
         <mxCell id="1eOeeqDIeldskbPUFZCg-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1eOeeqDIeldskbPUFZCg-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="170" as="sourcePoint" />
-            <mxPoint x="450" y="280" as="targetPoint" />
+            <mxPoint x="430" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="430" y="175" />
             </Array>
