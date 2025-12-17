@@ -47,7 +47,7 @@
           <mxGeometry x="324" y="235" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-12" value="层级扩散" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="305" width="90" height="30" as="geometry" />
+          <mxGeometry x="324" y="305" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -68,6 +68,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="290" as="sourcePoint" />
             <mxPoint x="310" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
