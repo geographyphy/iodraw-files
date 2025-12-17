@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-11" value="廊道集聚" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="250" width="90" height="30" as="geometry" />
+          <mxGeometry x="280" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-12" value="层级扩散" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="305" width="90" height="30" as="geometry" />
@@ -61,7 +61,7 @@
             <mxPoint x="300" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1eOeeqDIeldskbPUFZCg-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1eOeeqDIeldskbPUFZCg-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1eOeeqDIeldskbPUFZCg-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="290" as="sourcePoint" />
             <mxPoint x="300" y="240" as="targetPoint" />
