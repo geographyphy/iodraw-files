@@ -41,7 +41,7 @@
           <mxGeometry x="600" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-12" value="辐射效应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="250" width="90" height="30" as="geometry" />
+          <mxGeometry x="600" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -68,7 +68,7 @@
             <mxPoint x="-19" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1eOeeqDIeldskbPUFZCg-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1eOeeqDIeldskbPUFZCg-12">
+        <mxCell id="1eOeeqDIeldskbPUFZCg-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1eOeeqDIeldskbPUFZCg-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="240" as="sourcePoint" />
             <mxPoint x="550" y="240" as="targetPoint" />
