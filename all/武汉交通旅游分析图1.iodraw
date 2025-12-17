@@ -163,12 +163,6 @@
         <mxCell id="1eOeeqDIeldskbPUFZCg-1" value="空间相互作用&lt;span style=&quot;background-color: initial;&quot;&gt;理&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;论/引力模型&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-57" y="142" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1eOeeqDIeldskbPUFZCg-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="59" as="sourcePoint" />
-            <mxPoint x="550" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
