@@ -22,7 +22,7 @@
             <mxPoint x="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cAp2HBf35NN5zlK1Uo41-0" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1eOeeqDIeldskbPUFZCg-5">
+        <mxCell id="cAp2HBf35NN5zlK1Uo41-0" value="社会网络分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1eOeeqDIeldskbPUFZCg-5">
           <mxGeometry x="-0.4333" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
