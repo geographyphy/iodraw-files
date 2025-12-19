@@ -8,9 +8,9 @@
           <mxGeometry x="-130" y="20" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="格局描述" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="110" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1eOeeqDIeldskbPUFZCg-3" value="流空间理论" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1eOeeqDIeldskbPUFZCg-3" value="OLS全局分析" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-130" y="280" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1eOeeqDIeldskbPUFZCg-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
